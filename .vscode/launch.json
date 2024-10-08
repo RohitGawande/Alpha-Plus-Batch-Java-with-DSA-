@@ -1,0 +1,1022 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "LargestNum",
+            "request": "launch",
+            "mainClass": "LargestNum",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "LinearSearch",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "First",
+            "request": "launch",
+            "mainClass": "First",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Implementation",
+            "request": "launch",
+            "mainClass": "Implementation",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Iteration",
+            "request": "launch",
+            "mainClass": "Iteration",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "A",
+            "request": "launch",
+            "mainClass": "A",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "And_Operator",
+            "request": "launch",
+            "mainClass": "And_Operator",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "AreaCircle",
+            "request": "launch",
+            "mainClass": "AreaCircle",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Q1",
+            "request": "launch",
+            "mainClass": "Assignment.Q1",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Q2",
+            "request": "launch",
+            "mainClass": "Assignment.Q2",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Q3",
+            "request": "launch",
+            "mainClass": "Assignment.Q3",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Q4",
+            "request": "launch",
+            "mainClass": "Assignment.Q4",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Q5",
+            "request": "launch",
+            "mainClass": "Assignment.Q5",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "BalancedBST",
+            "request": "launch",
+            "mainClass": "BalancedBST",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "Basic",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Basic1",
+            "request": "launch",
+            "mainClass": "Basic1",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "BinaryProg",
+            "request": "launch",
+            "mainClass": "BinaryProg",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "BitOperation",
+            "request": "launch",
+            "mainClass": "BitOperation",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "BitwiseOP",
+            "request": "launch",
+            "mainClass": "BitwiseOP",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "BubbleSort",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Build_a_BST",
+            "request": "launch",
+            "mainClass": "Build_a_BST",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "CNoPyramid",
+            "request": "launch",
+            "mainClass": "CNoPyramid",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "CalculateTax",
+            "request": "launch",
+            "mainClass": "CalculateTax",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Circular_Queue",
+            "request": "launch",
+            "mainClass": "Circular_Queue",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Bino",
+            "request": "launch",
+            "mainClass": "Codes.Bino",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "BintoDec",
+            "request": "launch",
+            "mainClass": "Codes.BintoDec",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Fun_over_DT",
+            "request": "launch",
+            "mainClass": "Codes.Fun_over_DT",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Funct_over",
+            "request": "launch",
+            "mainClass": "Codes.Funct_over",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Codes.Prime",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Prime2",
+            "request": "launch",
+            "mainClass": "Codes.Prime2",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "PrintHW",
+            "request": "launch",
+            "mainClass": "Codes.PrintHW",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Prod",
+            "request": "launch",
+            "mainClass": "Codes.Prod",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Sum",
+            "request": "launch",
+            "mainClass": "Codes.Sum",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Swap",
+            "request": "launch",
+            "mainClass": "Codes.Swap",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "fact",
+            "request": "launch",
+            "mainClass": "Codes.fact",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "prod1",
+            "request": "launch",
+            "mainClass": "Codes.prod1",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Constructor",
+            "request": "launch",
+            "mainClass": "Constructor.Constructor",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Count_of_Nodes",
+            "request": "launch",
+            "mainClass": "Count_of_Nodes",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Creation",
+            "request": "launch",
+            "mainClass": "Creation",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "DcharPattern",
+            "request": "launch",
+            "mainClass": "DcharPattern",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Delete_Node",
+            "request": "launch",
+            "mainClass": "Delete_Node",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Detect_Cycle",
+            "request": "launch",
+            "mainClass": "Detect_Cycle",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Diameter_Tree2",
+            "request": "launch",
+            "mainClass": "Diameter_Tree2",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Diameter_of_Tree",
+            "request": "launch",
+            "mainClass": "Diameter_of_Tree",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Encapsulation",
+            "request": "launch",
+            "mainClass": "Encapsulation",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Example",
+            "request": "launch",
+            "mainClass": "Example",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Example1",
+            "request": "launch",
+            "mainClass": "Example1",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "FindPerm",
+            "request": "launch",
+            "mainClass": "FindPerm",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "FindSubsets",
+            "request": "launch",
+            "mainClass": "FindSubsets",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "GetSet",
+            "request": "launch",
+            "mainClass": "GetSet",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "H",
+            "request": "launch",
+            "mainClass": "H",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "HW",
+            "request": "launch",
+            "mainClass": "HW",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "HeapSort",
+            "request": "launch",
+            "mainClass": "HeapSort",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Height_of_Tree",
+            "request": "launch",
+            "mainClass": "Height_of_Tree",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Hello_World",
+            "request": "launch",
+            "mainClass": "Hello_World",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Input",
+            "request": "launch",
+            "mainClass": "Input",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Input_Sum",
+            "request": "launch",
+            "mainClass": "Input_Sum",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Insert",
+            "request": "launch",
+            "mainClass": "Insert",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Inverted_Star",
+            "request": "launch",
+            "mainClass": "Inverted_Star",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Kth_Level",
+            "request": "launch",
+            "mainClass": "Kth_Level",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Largest",
+            "request": "launch",
+            "mainClass": "Largest",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedList",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList1",
+            "request": "launch",
+            "mainClass": "LinkedList1",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList2",
+            "request": "launch",
+            "mainClass": "LinkedList2",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "LowestCommonAncestor",
+            "request": "launch",
+            "mainClass": "LowestCommonAncestor",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Max",
+            "request": "launch",
+            "mainClass": "Max",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Max_Subarray_Sum",
+            "request": "launch",
+            "mainClass": "Max_Subarray_Sum",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "MergeSort",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "MirrorBST",
+            "request": "launch",
+            "mainClass": "MirrorBST",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Multi_Dimentional",
+            "request": "launch",
+            "mainClass": "Multi_Dimentional",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "NQueens",
+            "request": "launch",
+            "mainClass": "NQueens",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "NQueensWays",
+            "request": "launch",
+            "mainClass": "NQueensWays",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "NearbyCars",
+            "request": "launch",
+            "mainClass": "NearbyCars",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "OddOrEven",
+            "request": "launch",
+            "mainClass": "OddOrEven",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Pairs",
+            "request": "launch",
+            "mainClass": "Pairs",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Method_Overloading",
+            "request": "launch",
+            "mainClass": "Polymorphism.Method_Overloading",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "PreOrder",
+            "request": "launch",
+            "mainClass": "PreOrder",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "PriQJCF",
+            "request": "launch",
+            "mainClass": "PriQJCF",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Prime(1)",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Print",
+            "request": "launch",
+            "mainClass": "Print",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "PrintLargestOf3",
+            "request": "launch",
+            "mainClass": "PrintLargestOf3",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "PrintTriangle",
+            "request": "launch",
+            "mainClass": "PrintTriangle",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Print_Hollowrect",
+            "request": "launch",
+            "mainClass": "Print_Hollowrect",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "PrioQue",
+            "request": "launch",
+            "mainClass": "PrioQue",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Prod(1)",
+            "request": "launch",
+            "mainClass": "Prod",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Push_At_Bottom",
+            "request": "launch",
+            "mainClass": "Push_At_Bottom",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Q",
+            "request": "launch",
+            "mainClass": "Q",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Q1(1)",
+            "request": "launch",
+            "mainClass": "Q1",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Q11",
+            "request": "launch",
+            "mainClass": "Q11",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Q2(1)",
+            "request": "launch",
+            "mainClass": "Q2",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Q3(1)",
+            "request": "launch",
+            "mainClass": "Q3",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Q4(1)",
+            "request": "launch",
+            "mainClass": "Q4",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Q5(1)",
+            "request": "launch",
+            "mainClass": "Q5",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Q6",
+            "request": "launch",
+            "mainClass": "Q6",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Q7",
+            "request": "launch",
+            "mainClass": "Q7",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Queue_JCF",
+            "request": "launch",
+            "mainClass": "Queue_JCF",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "QuickSort",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Remove",
+            "request": "launch",
+            "mainClass": "Remove",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Search_BST",
+            "request": "launch",
+            "mainClass": "Search_BST",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Sorted_arBST$Node",
+            "request": "launch",
+            "mainClass": "Sorted_arBST$Node",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Sorting",
+            "request": "launch",
+            "mainClass": "Sorting",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "SpiralMatrix",
+            "request": "launch",
+            "mainClass": "SpiralMatrix",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Spiral_Matrix",
+            "request": "launch",
+            "mainClass": "Spiral_Matrix",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "StackJCF",
+            "request": "launch",
+            "mainClass": "StackJCF",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "StackLinkL",
+            "request": "launch",
+            "mainClass": "StackLinkL",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Star_Pattern",
+            "request": "launch",
+            "mainClass": "Star_Pattern",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Subroot_Tree",
+            "request": "launch",
+            "mainClass": "Subroot_Tree",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Sum(1)",
+            "request": "launch",
+            "mainClass": "Sum",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Sum_of_Nodes",
+            "request": "launch",
+            "mainClass": "Sum_of_Nodes",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Swap(1)",
+            "request": "launch",
+            "mainClass": "Swap",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Switch",
+            "request": "launch",
+            "mainClass": "Switch",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "TerQ",
+            "request": "launch",
+            "mainClass": "TerQ",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Ternary",
+            "request": "launch",
+            "mainClass": "Ternary",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "TernaryOperator",
+            "request": "launch",
+            "mainClass": "TernaryOperator",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Top_View",
+            "request": "launch",
+            "mainClass": "Top_View",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "TypeCasting",
+            "request": "launch",
+            "mainClass": "TypeCasting",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Update",
+            "request": "launch",
+            "mainClass": "Update",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Using_Array",
+            "request": "launch",
+            "mainClass": "Using_Array",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Using_LL",
+            "request": "launch",
+            "mainClass": "Using_LL",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Validate_BST",
+            "request": "launch",
+            "mainClass": "Validate_BST",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "h",
+            "request": "launch",
+            "mainClass": "h",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "hj",
+            "request": "launch",
+            "mainClass": "hj",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "jj",
+            "request": "launch",
+            "mainClass": "jj",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "jjj",
+            "request": "launch",
+            "mainClass": "jjj",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "k",
+            "request": "launch",
+            "mainClass": "k",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "k1",
+            "request": "launch",
+            "mainClass": "k1",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "k2",
+            "request": "launch",
+            "mainClass": "k2",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "k3",
+            "request": "launch",
+            "mainClass": "k3",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "kk",
+            "request": "launch",
+            "mainClass": "kk",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "kkk",
+            "request": "launch",
+            "mainClass": "kkk",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "l",
+            "request": "launch",
+            "mainClass": "l",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "l3",
+            "request": "launch",
+            "mainClass": "l3",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "nn",
+            "request": "launch",
+            "mainClass": "nn",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "q2h",
+            "request": "launch",
+            "mainClass": "q2h",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "q2hw",
+            "request": "launch",
+            "mainClass": "q2hw",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "q3hw",
+            "request": "launch",
+            "mainClass": "q3hw",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "r",
+            "request": "launch",
+            "mainClass": "r",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "rough",
+            "request": "launch",
+            "mainClass": "rough",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "rough1",
+            "request": "launch",
+            "mainClass": "rough1",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "s",
+            "request": "launch",
+            "mainClass": "s",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "t",
+            "request": "launch",
+            "mainClass": "t",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "variable",
+            "request": "launch",
+            "mainClass": "variable",
+            "projectName": "ALPHA PLUS_89b9524f"
+        }
+    ]
+}
