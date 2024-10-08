@@ -149,9 +149,9 @@ This repository not only focuses on code but also provides **detailed theoretica
 Feel free to explore the code, study the theoretical explanations, and use this repository as a guide for mastering DSA in Java.
 
 **Connect with me:**  
-- [LinkedIn](https://www.linkedin.com/in/rohit-gawande)  
-- [GitHub](https://github.com/rohit-gawande)  
-- [Hashnode Blog](https://hashnode.com/@rohitgawande)
+- [LinkedIn](https://www.linkedin.com/in/rohit-singh-b079192a9/)  
+- [GitHub]()  
+- [Hashnode Blog](https://hashnode.com/@rohit253)
 
 
 This repository will be continually updated as I progress further in my learning journey, ensuring that it remains a valuable resource for anyone studying DSA in Java. Happy coding! 😊
