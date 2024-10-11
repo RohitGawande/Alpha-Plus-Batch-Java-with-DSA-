@@ -6,18 +6,18 @@ public class Max_Subarray_Sum {
             int start=i;
             for (int j = i; j < arr.length; j++) {
                 int end=j;
-                currSum=0;
-                for (int k = start; k < end; k++) {
+                currSum=0;//it will change 
+                for (int k = start; k <= end; k++) {
                    currSum+=arr[k];
                 }
-                System.out.println(currSum);
+                System.out.println("Current Sum:"+currSum+" ");
                 if (maxSum<currSum) {
                     maxSum=currSum;
                 }
             }
            
         }
-        System.out.println("Max Sum"+maxSum);
+        System.out.println("Max Sum:"+maxSum);
     }
     public static void main(String[] args) {
         int arr[]={1,-2,6,-1,3};
