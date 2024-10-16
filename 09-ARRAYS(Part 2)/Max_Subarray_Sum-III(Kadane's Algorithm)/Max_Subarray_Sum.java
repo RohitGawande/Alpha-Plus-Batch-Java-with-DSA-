@@ -1,4 +1,5 @@
 public class Max_Subarray_Sum {
+    //Kadane's Algorithm 
     public static void printSubArSum(int arr[]){
         int currSum=0;
         int maxSum=Integer.MIN_VALUE;

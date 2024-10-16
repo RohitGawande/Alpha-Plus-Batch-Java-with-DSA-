@@ -1,20 +1,25 @@
-class First{
-    public static int fib(int n,int f[]){
-        if (n==1||n==0) {
-            return n;
-        }
-        if (f[n]!=0) {
-            return f[n];
-        }
-        f[n]=fib(n-1,f)+fib(n-2,f);
-        return f[n];
+public class First {
+    int num; // Instance variable of the outer class
+    A obj1 = new A(); // Creating an instance of the inner class
+
+    public void show() {
+        // Method of the outer class that displays the value of 'num'
+        System.out.println("In show method: " + num);
     }
-    public static void main(String[] args) {
-        int n=6;
-        int f[]=new int[n+1];
-        System.out.println("The  of "+n+"Is"+fib(n, f));
-        for (int i = 0; i < f.length; i++) {
-            System.out.println("f["+i+"]="+f[i]);
+
+    class A { // Non-static inner class
+        public void config() {
+            // Method of the inner class
+            System.out.println("In config method");
+            show(); // Accessing the outer class method directly
         }
+    }
+
+    public static void main(String[] args) {
+        First obj = new First(); // Creating an instance of the outer class
+        obj.show(); // Calling the outer class method
+        A innerObj = obj.new A(); // Creating an instance of the inner class
+        innerObj.config(); // Calling the inner class method
     }
 }
+
