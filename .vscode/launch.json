@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Solution",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
             "name": "LargestNum",
             "request": "launch",
             "mainClass": "LargestNum",

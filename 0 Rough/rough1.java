@@ -1,35 +1,23 @@
-public class rough1 {
-    class Node{
-        int data;
-        Node next;
-        public Node(int data){
-            this.data=data;
-            this.next=null;
+class rough1{
+    public static int maxArea(int ar[]){
+        int left=0;
+        int right=ar.length-1;
+        int maxAre=0;
+        while (left<right) {
+            int width=right-left;
+            int minHeight=Math.min(ar[left], ar[right]);
+            int curAr=width*minHeight;
+            maxAre=Math.max(maxAre, curAr);
+            if (ar[left]<ar[right]) {
+                left++;
+            }else{
+                right--;
+            }
         }
-    }
-    public static Node head;
-    public static Node tail;
-    public void addFirst(int data){
-        Node newNode=new Node(data);
-        if(head==null){
-            head=tail=newNode;
-            return;
-        }
-        newNode.next=head;
-        head=newNode;
-    }
-    public void addLast(int data){
-        Node newNode=new Node(data);
-        if(head==null){
-            head=tail=newNode;
-            return;
-        }
-        tail.next=newNode;
-        tail=newNode;
+        return maxAre;
     }
     public static void main(String[] args) {
-        LinkedList ll=new LinkedList();
-        ll.addFirst(4);
-        ll.addLast(5);
+        int ar[]={1, 8, 6, 2, 5, 4, 8, 3, 7};
+        System.out.println(maxArea(ar));
     }
 }
