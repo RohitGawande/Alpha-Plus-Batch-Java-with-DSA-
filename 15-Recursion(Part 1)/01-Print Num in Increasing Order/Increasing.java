@@ -1,4 +1,4 @@
-public class Q2 {
+public class Increasing {
     public static void IncreasingNo(int n) {
         if(n==10){
             System.out.println(n);

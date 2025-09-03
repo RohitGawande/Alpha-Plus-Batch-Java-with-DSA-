@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Decreasing",
+            "request": "launch",
+            "mainClass": "Decreasing",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "e",
+            "request": "launch",
+            "mainClass": "e",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "a",
+            "request": "launch",
+            "mainClass": "a",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "Fibonacci",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
             "name": "Solution",
             "request": "launch",
             "mainClass": "Solution",
