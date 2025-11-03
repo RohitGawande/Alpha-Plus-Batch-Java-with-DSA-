@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Graph",
+            "request": "launch",
+            "mainClass": "Graph",
+            "projectName": "ALPHA PLUS_89b9524f"
+        },
+        {
+            "type": "java",
             "name": "BinarySearch",
             "request": "launch",
             "mainClass": "BinarySearch",
